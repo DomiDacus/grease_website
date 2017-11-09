@@ -1,0 +1,31 @@
+p {
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+}
+p a {
+  color: white;
+}
+h1 {
+  font-family:verdana;
+  color: black;
+  border: solid 10px white;
+text-align: center;
+
+}
+
+img {
+  height: 300px;
+  width: 300px;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+table {
+  border: solid 10px green;
+  column-width: 100px;
+}

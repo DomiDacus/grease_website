@@ -1,0 +1,50 @@
+
+p {
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+}
+
+p a {
+  color: white;
+}
+h2 {
+  style="color:blue;
+}
+#grease {
+  height: 300px;
+  width: 733px;
+  border: solid: 10px grey;
+}
+#Danny {
+  height: 350px;
+  width: 442px;
+  left: 50%;
+  border: solid: 10px grey;
+}
+#greaseposter {
+  height: 350px;
+  width: 442px;
+  left: 50%;
+  border: solid: 10px grey;
+}
+#greaselightning {
+  height: 350px;
+  width: 442px;
+  border: solid: 10px grey;
+}
+#ccs1 {
+  height: 300px;
+  width: 300px;
+  left: 50%;
+  border: solid: 10px grey;
+}
+#ccs2 {
+  height: 300px;
+  width: 300px;
+  left: 50%;
+  border: solid: 10px grey;
+}
+#hall {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
